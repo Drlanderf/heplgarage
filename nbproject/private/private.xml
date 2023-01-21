@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/E:/@DATA%20PERSO/DOCUMENTS/_PERSO/_COURS/_BA2/Q2/_JAVA/GarageHepl/src/WindowMenu/AddVoiture.java</file>
+            <file>file:/E:/@DATA%20PERSO/DOCUMENTS/_PERSO/_COURS/_BA2/Q2/_JAVA/GarageHepl/src/WindowMenu/AddEmploye.java</file>
+            <file>file:/E:/@DATA%20PERSO/DOCUMENTS/_PERSO/_COURS/_BA2/Q2/_JAVA/GarageHepl/src/Persistancedata/PersistanceTexte.java</file>
+            <file>file:/E:/@DATA%20PERSO/DOCUMENTS/_PERSO/_COURS/_BA2/Q2/_JAVA/GarageHepl/src/Activites/Reparation.java</file>
+            <file>file:/E:/@DATA%20PERSO/DOCUMENTS/_PERSO/_COURS/_BA2/Q2/_JAVA/GarageHepl/src/WindowMenu/ListeTechniciens.java</file>
+            <file>file:/E:/@DATA%20PERSO/DOCUMENTS/_PERSO/_COURS/_BA2/Q2/_JAVA/GarageHepl/src/AppGestion/Commande.java</file>
+            <file>file:/E:/@DATA%20PERSO/DOCUMENTS/_PERSO/_COURS/_BA2/Q2/_JAVA/GarageHepl/src/WindowMenu/ListeEmployes.java</file>
+            <file>file:/E:/@DATA%20PERSO/DOCUMENTS/_PERSO/_COURS/_BA2/Q2/_JAVA/GarageHepl/src/AppCentrale/Centrale.java</file>
+            <file>file:/E:/@DATA%20PERSO/DOCUMENTS/_PERSO/_COURS/_BA2/Q2/_JAVA/GarageHepl/src/AppGestion/WrongSelectionLogin.java</file>
+            <file>file:/E:/@DATA%20PERSO/DOCUMENTS/_PERSO/_COURS/_BA2/Q2/_JAVA/GarageHepl/src/People/TechnicienExterieur.java</file>
+            <file>file:/E:/@DATA%20PERSO/DOCUMENTS/_PERSO/_COURS/_BA2/Q2/_JAVA/GarageHepl/src/Data/Images/Redcross.png</file>
+            <file>file:/E:/@DATA%20PERSO/DOCUMENTS/_PERSO/_COURS/_BA2/Q2/_JAVA/GarageHepl/src/Authenticate/AValider.java</file>
+            <file>file:/E:/@DATA%20PERSO/DOCUMENTS/_PERSO/_COURS/_BA2/Q2/_JAVA/GarageHepl/src/Beans/PropertyChangeListener.java</file>
+            <file>file:/E:/@DATA%20PERSO/DOCUMENTS/_PERSO/_COURS/_BA2/Q2/_JAVA/GarageHepl/src/WindowMenu/ListeVoitures.java</file>
+            <file>file:/E:/@DATA%20PERSO/DOCUMENTS/_PERSO/_COURS/_BA2/Q2/_JAVA/GarageHepl/src/Beans/BeanOrder.java</file>
+            <file>file:/E:/@DATA%20PERSO/DOCUMENTS/_PERSO/_COURS/_BA2/Q2/_JAVA/GarageHepl/src/AppGestion/APropos.java</file>
+            <file>file:/E:/@DATA%20PERSO/DOCUMENTS/_PERSO/_COURS/_BA2/Q2/_JAVA/GarageHepl/src/AppGestion/ListeTravaux.java</file>
+            <file>file:/E:/@DATA%20PERSO/DOCUMENTS/_PERSO/_COURS/_BA2/Q2/_JAVA/GarageHepl/src/Beans/BeanEmetteur.java</file>
+            <file>file:/E:/@DATA%20PERSO/DOCUMENTS/_PERSO/_COURS/_BA2/Q2/_JAVA/GarageHepl/src/Beans/BeanRecepteur.java</file>
+            <file>file:/E:/@DATA%20PERSO/DOCUMENTS/_PERSO/_COURS/_BA2/Q2/_JAVA/GarageHepl/src/AppGestion/PriseEnCharge.java</file>
+            <file>file:/E:/@DATA%20PERSO/DOCUMENTS/_PERSO/_COURS/_BA2/Q2/_JAVA/GarageHepl/src/WindowMenu/AddMecanicien.java</file>
+            <file>file:/E:/@DATA%20PERSO/DOCUMENTS/_PERSO/_COURS/_BA2/Q2/_JAVA/GarageHepl/src/People/Client.java</file>
+            <file>file:/E:/@DATA%20PERSO/DOCUMENTS/_PERSO/_COURS/_BA2/Q2/_JAVA/GarageHepl/src/WindowMenu/AddTechnicien.java</file>
+            <file>file:/E:/@DATA%20PERSO/DOCUMENTS/_PERSO/_COURS/_BA2/Q2/_JAVA/GarageHepl/src/AppGestion/Authentification.java</file>
+            <file>file:/E:/@DATA%20PERSO/DOCUMENTS/_PERSO/_COURS/_BA2/Q2/_JAVA/GarageHepl/src/AppGestion/Noaccess.java</file>
+            <file>file:/E:/@DATA%20PERSO/DOCUMENTS/_PERSO/_COURS/_BA2/Q2/_JAVA/GarageHepl/nbproject/build-impl.xml</file>
+            <file>file:/E:/@DATA%20PERSO/DOCUMENTS/_PERSO/_COURS/_BA2/Q2/_JAVA/GarageHepl/src/AppGestion/ReceiveCommande.java</file>
+            <file>file:/E:/@DATA%20PERSO/DOCUMENTS/_PERSO/_COURS/_BA2/Q2/_JAVA/GarageHepl/src/Exceptions/MissingTradeMarkException.java</file>
+            <file>file:/E:/@DATA%20PERSO/DOCUMENTS/_PERSO/_COURS/_BA2/Q2/_JAVA/GarageHepl/src/People/Employe.java</file>
+            <file>file:/E:/@DATA%20PERSO/DOCUMENTS/_PERSO/_COURS/_BA2/Q2/_JAVA/GarageHepl/src/Authenticate/Identifiable.java</file>
+            <file>file:/E:/@DATA%20PERSO/DOCUMENTS/_PERSO/_COURS/_BA2/Q2/_JAVA/GarageHepl/src/People/Personne.java</file>
+            <file>file:/E:/@DATA%20PERSO/DOCUMENTS/_PERSO/_COURS/_BA2/Q2/_JAVA/GarageHepl/src/MyVariousUtils/Color.java</file>
+            <file>file:/E:/@DATA%20PERSO/DOCUMENTS/_PERSO/_COURS/_BA2/Q2/_JAVA/GarageHepl/log/log.log</file>
+            <file>file:/E:/@DATA%20PERSO/DOCUMENTS/_PERSO/_COURS/_BA2/Q2/_JAVA/GarageHepl/src/People/PersonnelGarage.java</file>
+            <file>file:/E:/@DATA%20PERSO/DOCUMENTS/_PERSO/_COURS/_BA2/Q2/_JAVA/GarageHepl/src/People/Mecanicien.java</file>
+            <file>file:/E:/@DATA%20PERSO/DOCUMENTS/_PERSO/_COURS/_BA2/Q2/_JAVA/GarageHepl/src/Data/Images/ImageAccueil.png</file>
+            <file>file:/E:/@DATA%20PERSO/DOCUMENTS/_PERSO/_COURS/_BA2/Q2/_JAVA/GarageHepl/src/AppGestion/GarageHepl.java</file>
+            <file>file:/E:/@DATA%20PERSO/DOCUMENTS/_PERSO/_COURS/_BA2/Q2/_JAVA/GarageHepl/src/Data/Images/Warning.png</file>
+            <file>file:/E:/@DATA%20PERSO/DOCUMENTS/_PERSO/_COURS/_BA2/Q2/_JAVA/GarageHepl/src/AppGestion/AddFacture.java</file>
+            <file>file:/E:/@DATA%20PERSO/DOCUMENTS/_PERSO/_COURS/_BA2/Q2/_JAVA/GarageHepl/src/Activites/Entretien.java</file>
+            <file>file:/E:/@DATA%20PERSO/DOCUMENTS/_PERSO/_COURS/_BA2/Q2/_JAVA/GarageHepl/src/WindowMenu/ListeMecaniciens.java</file>
+            <file>file:/E:/@DATA%20PERSO/DOCUMENTS/_PERSO/_COURS/_BA2/Q2/_JAVA/GarageHepl/src/AppGestion/Accueil.java</file>
+            <file>file:/E:/@DATA%20PERSO/DOCUMENTS/_PERSO/_COURS/_BA2/Q2/_JAVA/GarageHepl/src/Exceptions/ExceptionGarage.java</file>
+            <file>file:/E:/@DATA%20PERSO/DOCUMENTS/_PERSO/_COURS/_BA2/Q2/_JAVA/GarageHepl/src/WindowMenu/AddClient.java</file>
+            <file>file:/E:/@DATA%20PERSO/DOCUMENTS/_PERSO/_COURS/_BA2/Q2/_JAVA/GarageHepl/src/Activites/Travail.java</file>
+            <file>file:/E:/@DATA%20PERSO/DOCUMENTS/_PERSO/_COURS/_BA2/Q2/_JAVA/GarageHepl/src/AppCentrale/CentraleAchat.java</file>
+            <file>file:/E:/@DATA%20PERSO/DOCUMENTS/_PERSO/_COURS/_BA2/Q2/_JAVA/GarageHepl/src/AppGestion/APrevoir.java</file>
+        </group>
+    </open-files>
+</project-private>
